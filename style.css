@@ -182,6 +182,16 @@ body {
   }
 }
 
+
+@media (min-width: 1200px) {
+  /* reusable classes */
+  .container {
+    max-width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 @media screen and (max-width: 1064px) {
   .container {
       width: 90%;
