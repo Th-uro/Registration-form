@@ -28,6 +28,7 @@ body {
   align-items: center;
   background-color: #fde3a7d7;
   padding: 1rem;
+  border-radius: 5px 0 0 5px;
 }
 
 .form-image img {
@@ -42,6 +43,7 @@ body {
   align-items: center;
   background-color: #fff;
   padding: 3rem;
+  border-radius: 0 5px 5px 0;
 }
 
 .form-header {
